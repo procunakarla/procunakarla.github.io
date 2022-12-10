@@ -1,4 +1,4 @@
-/* Barra de navegacion */
+
 
 .navbar {
   padding: 2rem;
@@ -10,7 +10,6 @@
   justify-content: space-between;  
 }
 
-/* Estilos generales */
 
 section {
   display: flex;
@@ -62,7 +61,7 @@ h1 {
   color: white;
 }
 
-/* Seccion Hero */
+
 
 .hero {
   background-image: linear-gradient(to top, #df89b5 0%, #bfd9fe 100%);
@@ -85,7 +84,7 @@ h1 {
   color: #615151;
 }
 
-/* Sobre mi */
+
 
 .sobre-mi {
   height: 500px;
@@ -97,7 +96,7 @@ h1 {
   text-align: center;
 }
 
-/* Experiencia */
+
 
 .experiencia {
   background-image: linear-gradient(to top, #df89b5 0%, #bfd9fe 100%);
@@ -143,7 +142,7 @@ h1 {
   margin: 5px;
 }
 
-/* Proyectos */
+
 
 .proyectos-recientes {
   background-image: linear-gradient(to top, #df89b5 0%, #bfd9fe 100%);
@@ -202,7 +201,7 @@ h1 {
   margin: 10px;
 }
 
-/* Articulos */
+
 
 .articulos {
   background-image: linear-gradient(to top, #df89b5 0%, #bfd9fe 100%);
@@ -220,7 +219,7 @@ h1 {
   font-weight: bold;
 }
 
-/* Testimonios */
+
 
 .testimonios {
   background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
@@ -275,7 +274,7 @@ h1 {
   color: #656060;
 }
 
-/* Contacto */
+
 
 .contacto .container {
   max-width: 1100px;
@@ -327,7 +326,7 @@ h1 {
   color: black;
 }
 
-/* Pie de pagina (footer) */
+
 
 footer {
   min-height: 500px;
@@ -380,7 +379,7 @@ footer {
   padding: 20px;
 }
 
-/* Adaptable (Responsivo) */
+
 
 @media screen and (max-width: 400px) {
   .overlay p {
